@@ -11,3 +11,5 @@
 
 
 [install kiro](kiro://kiro.mcp/add?name=awslabs.aws-api-mcp-server&config=%7B%22command%22%3A%22uvx%22%2C%22args%22%3A%5B%22awslabs.aws-api-mcp-server%40latest%22%5D%2C%22env%22%3A%7B%22AWS_REGION%22%3A%22us-east-1%22%7D%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%2C%22disabledTools%22%3A%5B%5D%7D)
+
+[go to kiro](https://kiro.dev)
