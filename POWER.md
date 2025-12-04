@@ -1,6 +1,5 @@
 ---
 name: "react-dev"
-version: "1.0.0"
 displayName: "React Development"
 description: "Best practices, patterns, and workflows for building React applications with hooks, state management, and testing"
 keywords: ["react", "hooks", "components", "jsx", "state", "testing", "typescript"]
